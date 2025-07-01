@@ -43,7 +43,7 @@ A Flutter-based personal finance app to **track, manage, and analyze expenses** 
 ---
 
 ## 📂 Project Structure
-
+```
 lib/
 ├── model/
 │   ├── expense_model.dart
@@ -67,6 +67,7 @@ lib/
 │       ├──dropTextField_category_widget.dart
 │       ├──dropTextField_tag_widget.dart
 └── main.dart
+```
 ---
 
 ## 🚀 Getting Started
